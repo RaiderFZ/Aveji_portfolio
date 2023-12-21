@@ -1,0 +1,35 @@
+@font-face {
+  font-weight: 400; /* Соответствует значению normal */
+  font-family: Roboto;
+  src: url("../fonts/Roboto/Roboto-Regular.woff") format("woff"),
+       url("../fonts/Roboto/Roboto-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 700; /* Соответствует значению bold */
+  font-family: Roboto;
+  src: url("../fonts/Roboto/Roboto-Bold.woff") format("woff"),
+       url("../fonts/Roboto/Roboto-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 400; /* Соответствует значению normal */
+  font-family: "Helvetica";
+  src: url("../fonts/Halvetika/helvetica_regular.woff") format("woff"),
+       url("../fonts/Halvetika/helvetica_regular.woff2") format("woff2"); 
+  font-style: normal;
+  font-display: swap; 
+}
+
+@font-face {
+  font-weight: 700; /* Соответствует значению bold */
+  font-family: "Helvetica";
+  src: url("../fonts/Halvetika/helvetica_bold.woff") format("woff"),
+       url("../fonts/Halvetika/helvetica_bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
